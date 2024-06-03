@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="user_favorites_title">Favoritos</string>
+    <string name="field_search_placeholder">Estou procurando por...</string>
+    <string name="description_icon_search">Ícone de Lupa indicando campo de busca</string>
+    <string name="description_icon_favorite">Ícone de coração indicando a sessão de favoritos</string>
+    <string name="description_icon_setting">Ícone de engrenagem indicando a sessão de configurações</string>
+    <string name="description_user_picture">Imagem de perfil do usuário</string>
+    <string name="placeholder_username">User Id: %s</string>
+    <string name="description_icon_back">Botão voltar</string>
+    <string name="description_icon_link">Ícone de link</string>
+    <string name="button_github_link">Acessar Github</string>
+    <string name="tab_repositories">Repositórios</string>
+    <string name="tab_following">Seguindo</string>
+    <string name="tab_followers">Seguidores</string>
+    <string name="placeholder_userlist">A busca não retornou nenhum resultado</string>
+    <string name="label_atention">Atenção</string>
+    <string name="label_close">Fechar</string>
+</resources>
